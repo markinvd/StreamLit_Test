@@ -1,5 +1,0 @@
-streamlit
-fastparquet
-pandas
-numpy
-sklearn
