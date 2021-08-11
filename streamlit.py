@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-df =  pd.read_csv(url='https://raw.githubusercontent.com/markinvd/StreamLit_Test/main/water_potability.csv')
+df =  pd.read_csv('https://raw.githubusercontent.com/markinvd/StreamLit_Test/main/water_potability.csv')
 df.sample(5)
 
 
